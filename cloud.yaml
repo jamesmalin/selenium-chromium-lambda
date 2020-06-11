@@ -9,7 +9,7 @@ Parameters:
     WebSite:
         Description: Take screenshot of this URL 
         Type: String  
-        Default: "https://www.google.it"
+        Default: "https://www.diverseprogrammers.com"
 
     SourceFolder:
         Description: folder in S3 Bucket where source files are located (lambda)
